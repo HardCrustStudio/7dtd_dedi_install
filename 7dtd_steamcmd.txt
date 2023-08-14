@@ -1,0 +1,4 @@
+force_install_dir d:\7dtd_dedi_server
+login anonymous
+app_update 294420 validate
+quit
